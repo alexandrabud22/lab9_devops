@@ -1,4 +1,4 @@
-name: Run Sudoku Solver Unit Tests
+name: Run Sudoku Solver Unit Tests_
 
 on: 
   push:
